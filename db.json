@@ -13,10 +13,10 @@
       "reminder": false
     },
     {
-      "id": 3,
-      "Text": "ejemplo de tarea 3",
-      "day": "11 de septiembre 2022",
-      "reminder": false
+      "Text": "Hola",
+      "day": "cuando diga el spiderman",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
